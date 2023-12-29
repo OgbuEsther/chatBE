@@ -1,3 +1,5 @@
+//Sammy checking to see if the Git is Good to Go
+
 import express , {Application} from "express"
 import mongoose from "mongoose"
 import userRoutes from "./userRoutes"
